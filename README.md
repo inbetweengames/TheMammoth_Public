@@ -1,6 +1,6 @@
 # The Mammoth: A Cave Painting
 
-copyright 2015 inbetweengame GBR
+copyright 2015 inbetweengames GBR
 
 http://www.inbetweengames.com/mammoth
 
